@@ -4,9 +4,9 @@ This is a reworked version of qb-bankrobbery!
 
 # Features
 
-_1. QB-Target functionality!_
-_2. Configurable Items for payout / beginning items._
-_3. Configurable hack difficulty._
+1. _QB-Target functionality!_
+2. _Configurable Items for payout / beginning items._
+3. _Configurable hack difficulty._
 
 _**To be continued..**_
 
@@ -35,7 +35,7 @@ stp 1...
 
 # Dependencies 
 
-1. **[hacking]**(https://github.com/Jesper-Hustad/NoPixel-minigame/tree/main/fivem-script) _from_ [Jesper-Hustad](https://github.com/Jesper-Hustad)
+1. _[hacking](https://github.com/Jesper-Hustad/NoPixel-minigame/tree/main/fivem-script) from [Jesper-Hustad](https://github.com/Jesper-Hustad)_
 
-2. ***If you have Config.TwoHack enabled, you also will need:*** [mhacking](https://github.com/davedorm/mhacking)
+2. _***If you have Config.TwoHack enabled, you also will need:*** [mhacking](https://github.com/davedorm/mhacking)_
 
