@@ -36,6 +36,7 @@ To enable TwoHack, you must have mhacking, which can be found below in the depen
 2. **Config.WaitTime** _is your wait time for the fleeca (and future banks) vault doors to open. This is in **milliseconds**, so a link for a converter is included._
 To change the time, edit the default (300000) to your desired value. (Config.WaitTime = 300000 ---> Config.WaitTime = YOURTIME)
 
+3. **Config.ShowItems** _is a pop-up for the player to see the required items for the hack. This is **disabled** by default. Change to **true** to enable._
 
 # Dependencies 
 
