@@ -12,7 +12,7 @@ _**To be continued..**_
 
 # Showcase
 
-_**[YouTube Showcase]**_(https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+_**[YouTube Showcase](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**_
 
 # Information
 
