@@ -22,8 +22,9 @@ _**[YouTube Showcase](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**_
 
 **The only modified files are client/fleeca.lua, server/main.lua, config.lua and fxmanifest.lua -- Script errors in other files are an issue with the original qb-bankrobbery.**
 
-**This disables showing the items required for the hack, as I feel it makes no sense from an RP standpoint, as this script is made for rp, I have disabled it. **
-EXAMPLE: ![image](https://user-images.githubusercontent.com/95599217/174428190-652b1889-0d26-49c0-924f-4d51c8528df1.png)
+**This disables showing the items required for the hack, as I feel it makes no sense from an RP standpoint, as this script is made for rp, I have disabled it.**
+_**EXAMPLE:**_
+![image](https://user-images.githubusercontent.com/95599217/174428190-652b1889-0d26-49c0-924f-4d51c8528df1.png)
 
 # Install Guide
 stp 1...
