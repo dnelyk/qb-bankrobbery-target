@@ -45,5 +45,7 @@ To change the time, edit the default (300000) to your desired value. (Config.Wai
 
 1. _[hacking](https://github.com/Jesper-Hustad/NoPixel-minigame/tree/main/fivem-script) from [Jesper-Hustad](https://github.com/Jesper-Hustad)_
 
-2. _***If you have Config.TwoHack enabled, you also will need:*** [mhacking](https://github.com/davedorm/mhacking)_
+2. [qb-target](https://github.com/qbcore-framework/qb-target) from the QBCore Framework. This most likely will be included with QB Framewoork. 
+
+3. _***If you have Config.TwoHack enabled, you also will need:*** [mhacking](https://github.com/davedorm/mhacking)_
 
