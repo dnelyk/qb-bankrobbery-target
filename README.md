@@ -20,6 +20,8 @@ _**[YouTube Showcase](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**_
 
 **_I hopefully, in the future, will be implementing these for the paleto and pacific banks -- and possibly other locations._**
 
+**The only modified files are client/fleeca.lua, server/main.lua, config.lua and fxmanifest.lua -- Script errors in other files are an issue with the original qb-bankrobbery.**
+
 # Install Guide
 stp 1...
 2.
