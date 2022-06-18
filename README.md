@@ -4,21 +4,21 @@ This is a reworked version of qb-bankrobbery!
 
 # Features
 
-1. QB-Target functionality!
-2. Configurable Items for payout / beginning items.
-3. Configurable hack difficulty.
+_1. QB-Target functionality!_
+_2. Configurable Items for payout / beginning items._
+_3. Configurable hack difficulty._
 
-To be continued..
+_**To be continued..**_
 
 # Showcase
 
-[YouTube Showcase](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+_**[YouTube Showcase]**_(https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 # Information
 
-Currently, this only affects Fleeca Banks. I made this for a RP Server I was developing, and we decided to not release.
+**Currently, this only affects Fleeca Banks. I made this for a RP Server I was developing, and we decided to not release.**
 
-I hopefully, in the future, will be implementing these for the paleto and pacific banks -- and possibly other locations.
+**_I hopefully, in the future, will be implementing these for the paleto and pacific banks -- and possibly other locations._**
 
 # Install Guide
 stp 1...
@@ -35,7 +35,7 @@ stp 1...
 
 # Dependencies 
 
-1. [hacking](https://github.com/Jesper-Hustad/NoPixel-minigame/tree/main/fivem-script) from [Jesper-Hustad](https://github.com/Jesper-Hustad)
+1. **[hacking]**(https://github.com/Jesper-Hustad/NoPixel-minigame/tree/main/fivem-script) _from_ [Jesper-Hustad](https://github.com/Jesper-Hustad)
 
 2. ***If you have Config.TwoHack enabled, you also will need:*** [mhacking](https://github.com/davedorm/mhacking)
 
