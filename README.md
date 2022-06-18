@@ -30,7 +30,7 @@ stp 1...
 
 # Configuration Information
 
-### To enable Two Hacks, change the false to true. (Config.TwoHack = false ---> Config.TwoHack = true)
+### To enable Two Hacks, you must have mhacking (in dependencies) and change the false to true. (Config.TwoHack = false ---> Config.TwoHack = true)
 1. **Config.TwoHack** _is to enable a **20%** chance of an easier hack, mhacking. This is **disabled** by default._
 
 
