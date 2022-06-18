@@ -30,7 +30,7 @@ stp 1...
 
 # Configuration Information
 
-1. **Config.TwoHack** _is to enable a **20%** chance of an easier hack, mhacking. This is disabled by default._
+1. **Config.TwoHack** _is to enable a **20%** chance of an easier hack, mhacking. This is **disabled** by default._
 2. **Config.WaitTime** _is your wait time for the fleeca (and future banks) vault doors to open. This is in **milliseconds**, so a link for a converter is included._
 
 # Dependencies 
