@@ -30,12 +30,11 @@ stp 1...
 
 # Configuration Information
 
-### To enable Two Hacks, you must have mhacking (in dependencies) and change the false to true. (Config.TwoHack = false ---> Config.TwoHack = true)
 1. **Config.TwoHack** _is to enable a **20%** chance of an easier hack, mhacking. This is **disabled** by default._
+To enable TwoHack, you must have mhacking, which can be found below in the dependencies section. Then, change the value of Config.Twohack from false to true (Config.TwoHack = false ---> Config.TwoHack = true)
 
-
-### To change the wait time, change the 300000 to your time. (Config.WaitTime = 300000 ---> Config.WaitTime = YOURTIME)
 2. **Config.WaitTime** _is your wait time for the fleeca (and future banks) vault doors to open. This is in **milliseconds**, so a link for a converter is included._
+To change the time, edit the default (300000) to your desired value. (Config.WaitTime = 300000 ---> Config.WaitTime = YOURTIME)
 
 
 # Dependencies 
