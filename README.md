@@ -30,7 +30,7 @@ stp 1...
 
 # Dependencies 
 
-[hacking](https://github.com/Jesper-Hustad/NoPixel-minigame/tree/main/fivem-script) from [Jesper-Hustad](https://github.com/Jesper-Hustad)
+1. [hacking](https://github.com/Jesper-Hustad/NoPixel-minigame/tree/main/fivem-script) from [Jesper-Hustad](https://github.com/Jesper-Hustad)
 ***If you have Config.TwoHack enabled, you also will need:***
-[mhacking](https://github.com/davedorm/mhacking)
+2. [mhacking](https://github.com/davedorm/mhacking)
 
