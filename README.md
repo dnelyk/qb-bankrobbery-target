@@ -58,7 +58,7 @@ To change the time, edit the default (300000) to your desired value. (Config.Wai
 
 7. **Config.RandomItemAmount** _dictates the amount of your designated item the player gets. **Default** = math.random(**5**, **9**) (**Random** number **5** to **9**)_
 
-8. **Config.PaletoItem and Config.PacificItem are not used at this moment, but will most likely be used when I add Paleto and Fleeca Robberies!**
+8. **Config.PaletoItem** _and_ **Config.PacificItem** _are not used at this moment, but will most likely be used when I add Paleto and Fleeca Robberies!_
 
 # Dependencies 
 
