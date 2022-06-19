@@ -1,6 +1,6 @@
 # qb-bankrobbery-target
 
-This is a reworked version of qb-bankrobbery!
+This is a reworked version of qb-bankrobbery! - Unaware if anyone has done this before.
 
 # Features
 
