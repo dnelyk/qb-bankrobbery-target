@@ -41,6 +41,10 @@ To enable TwoHack, you must have mhacking, which can be found below in the depen
 2. **Config.WaitTime** _is your wait time for the fleeca (and future banks) vault doors to open. This is in **milliseconds**, so a link for a converter is included._
 To change the time, edit the default (300000) to your desired value. (Config.WaitTime = 300000 ---> Config.WaitTime = YOURTIME)
 
+3. **Config.Stress** _dictates whether the player grabbing the money will gain stress when grabbing or not. **True** = Yes, **False** = No._
+
+4. **Config.StressAmount** _dictates how much stress the player gets when grabbing. **Default** = **15**, this value shouldn't go over **30**._
+
 
 # Dependencies 
 
