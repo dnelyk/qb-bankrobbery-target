@@ -20,7 +20,7 @@ _**[YouTube Showcase](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**_
 
 **Currently, this only affects Fleeca Banks. I made this for a RP Server I was developing, and we decided to not release.**
 
-**_I hopefully, in the future, will be implementing these for the paleto and pacific banks -- and possibly other locations._**
+**_I hopefully, in the future, will be implementing these for the paleto and pacific banks -- and possibly other locations. If people want me to._**
 
 **The only modified files are client/fleeca.lua, server/main.lua, config.lua and fxmanifest.lua -- Script errors in other files are an issue with the original qb-bankrobbery.**
 
@@ -34,10 +34,10 @@ _**[YouTube Showcase](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**_
 1. Download this resource.
 2. Download the dependencies, **[hacking](https://github.com/Jesper-Hustad/NoPixel-minigame/tree/main/fivem-script)**, if using Config.TwoHack, also download
 **[mhacking](https://github.com/davedorm/mhacking)** and make sure you have [qb-target](https://github.com/qbcore-framework/qb-target) in your server resources.   This is included with the QB Framework.
-3. Drag and Drop qb-bankrobbery-target, hacking, and mhacking, if you are using it, into your resources folder in your server. 
+3. Drag and Drop **qb-bankrobbery-target**, **hacking**, and **mhacking**, if you are using it, into your resources folder in your server. 
 4. Ensure these resources in your server.cfg, if they are not in a folder that is already ensured. Make sure that hacking, mhacking and qb-target are started before qb-bankrobbery-target. Example of server.cfg: 
 ##### ![image](https://i.imgur.com/AUh8cdO.png)
-5. If you wish to change anything, open the Config.lua in qb-bankrobbery-target, and refer to the configuration information tab to make your changes.
+5. If you wish to change anything, open the Config.lua in **qb-bankrobbery-target**, and refer to the configuration information tab to make your changes.
 
 
 # Configuration Information
