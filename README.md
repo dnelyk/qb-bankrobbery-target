@@ -16,6 +16,8 @@ _**[YouTube Showcase](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**_
 
 # Information
 
+**NOTE:** _I am currently unaware if Gabz's Bank Interiors will conflict with the fleeca banks, although I am pretty sure that his Pacific Standard and Paleto ones will affect the pacific bank and paleto banks. These interiors are not currently supported with my version of this bank robbery script. Sorry if you do have these interiors._
+
 **Currently, this only affects Fleeca Banks. I made this for a RP Server I was developing, and we decided to not release.**
 
 **_I hopefully, in the future, will be implementing these for the paleto and pacific banks -- and possibly other locations._**
