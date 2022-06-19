@@ -68,3 +68,7 @@ To change the time, edit the default (300000) to your desired value. (Config.Wai
 
 3. _***If you have Config.TwoHack enabled, you also will need:*** [mhacking](https://github.com/davedorm/mhacking)_
 
+# Support
+
+If you need support, please join my [discord](https://discord.gg/sYpsygQ7jV)!
+
