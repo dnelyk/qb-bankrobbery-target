@@ -48,10 +48,17 @@ To enable TwoHack, you must have mhacking, which can be found below in the depen
 2. **Config.WaitTime** _is your wait time for the fleeca (and future banks) vault doors to open. This is in **milliseconds**, so a link for a converter is included._
 To change the time, edit the default (300000) to your desired value. (Config.WaitTime = 300000 ---> Config.WaitTime = YOURTIME)
 
-3. **Config.Stress** _dictates whether the player grabbing the money will gain stress when grabbing or not. **True** = Yes, **False** = No._
+3. **Config.CopCallTime** _dictates the amount of time it takes for the police to get a ping if there is a robbery occuring. (IN MS)_
 
-4. **Config.StressAmount** _dictates how much stress the player gets when grabbing. **Default** = **15**, this value shouldn't go over **30**._
+4. **Config.Stress** _dictates whether the player grabbing the money will gain stress when grabbing or not. **True** = Yes, **False** = No._
 
+5. **Config.StressAmount** _dictates how much stress the player gets when grabbing. **Default** = **15**, this value shouldn't go over **30**._
+
+6. **Config.FleecaItem** _dictates the item that the player gets after grabbing the money off of the tray. **Default** = "markedbills"_
+
+7. **Config.RandomItemAmount** _dictates the amount of your designated item the player gets. **Default** = math.random(**5**, **9**) (**Random** number **5** to **9**)_
+
+8. **Config.PaletoItem and Config.PacificItem are not used at this moment, but will most likely be used when I add Paleto and Fleeca Robberies!**
 
 # Dependencies 
 
