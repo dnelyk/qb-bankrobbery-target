@@ -22,6 +22,8 @@ _**[YouTube Showcase](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**_
 
 **The only modified files are client/fleeca.lua, server/main.lua, config.lua and fxmanifest.lua -- Script errors in other files are an issue with the original qb-bankrobbery.**
 
+**Resource Monitor:** _Anywhere from (**Idle** of **0.00ms-0.01ms**; **During Active Robbery**: **0.02ms-0.03ms**)_
+ 
 **This disables showing the items required for the hack, as I feel it makes no sense from an RP standpoint, as this script is made for rp, I have disabled it.**
 ##### ![image](https://user-images.githubusercontent.com/95599217/174428190-652b1889-0d26-49c0-924f-4d51c8528df1.png)
 
