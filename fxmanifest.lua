@@ -12,14 +12,10 @@ shared_script 'config.lua'
 client_scripts {
     '@PolyZone/client.lua',
     '@PolyZone/BoxZone.lua',
-    'client/fleeca.lua',
-    'client/pacific.lua',
-    'client/powerstation.lua',
-    'client/doors.lua',
-    'client/paleto.lua',
+    'client/*.lua',
 }
 
-server_script 'server/main.lua'
+server_script 'server/*.lua'
 
 files {
     'html/*',
