@@ -1,6 +1,6 @@
 # qb-bankrobbery-target
 
-This is a reworked version of qb-bankrobbery! - Unaware if anyone has done this before.
+This is a reworked version of qb-bankrobbery!
 
 # Features
 
@@ -34,8 +34,8 @@ _**[YouTube Showcase](https://www.youtube.com/watch?v=3g81Nj3t4cc)**_
 # Install Guide
 
 1. Download this resource, and remove -main from the end. It should now just be qb-bankrobbery-target.
-2. Download the dependencies, **[hacking](https://github.com/Jesper-Hustad/NoPixel-minigame/tree/main/fivem-script)**, if using Config.TwoHack, also download
-**[mhacking](https://github.com/davedorm/mhacking)** and make sure you have [qb-target](https://github.com/qbcore-framework/qb-target) in your server resources.   This is included with the QB Framework.
+2. Download the dependencies, **[hacking](https://github.com/Jesper-Hustad/NoPixel-minigame/tree/main/fivem-script)** [click this to download hacking](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FJesper-Hustad%2FNoPixel-minigame%2Ftree%2Fmain%2Ffivem-script%2Fhacking), if using Config.TwoHack, also download
+**[mhacking](https://github.com/davedorm/mhacking)** which should be included with QB Framework and make sure you have [qb-target](https://github.com/qbcore-framework/qb-target) in your server resources. This is included with the QB Framework.
 3. Drag and Drop **qb-bankrobbery-target**, **hacking**, and **mhacking**, if you are using it, into your resources folder in your server. 
 4. Ensure these resources in your server.cfg, if they are not in a folder that is already ensured. Make sure that hacking, mhacking and qb-target are started before qb-bankrobbery-target. Example of server.cfg: 
 ##### ![image](https://i.imgur.com/AUh8cdO.png)
@@ -68,7 +68,7 @@ To change the time, edit the default (300000) to your desired value. (Config.Wai
 
 2. [qb-target](https://github.com/qbcore-framework/qb-target) from the QBCore Framework. This most likely will be included with QB Framewoork. 
 
-3. _***If you have Config.TwoHack enabled, you also will need:*** [mhacking](https://github.com/davedorm/mhacking)_
+3. _***If you have Config.TwoHack enabled, you also will need:*** [mhacking](https://github.com/davedorm/mhacking)_ **(Should be included with QB Framework)**
 
 # Support
 
