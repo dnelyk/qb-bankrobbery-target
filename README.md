@@ -7,8 +7,10 @@ This is a reworked version of qb-bankrobbery!
 1. _QB-Target functionality!_
 2. _Configurable items for payout._
 3. _Configurable hack difficulty._
+4. _A lot more configurability._
+5. _Lootable money trays._
 
-_**To be continued..**_
+_**Future Features will be added**_
 
 # Showcase
 
