@@ -31,7 +31,7 @@ _**[YouTube Showcase](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**_
 
 # Install Guide
 
-1. Download this resource.
+1. Download this resource, and remove -main from the end. It should now just be qb-bankrobbery-target.
 2. Download the dependencies, **[hacking](https://github.com/Jesper-Hustad/NoPixel-minigame/tree/main/fivem-script)**, if using Config.TwoHack, also download
 **[mhacking](https://github.com/davedorm/mhacking)** and make sure you have [qb-target](https://github.com/qbcore-framework/qb-target) in your server resources.   This is included with the QB Framework.
 3. Drag and Drop **qb-bankrobbery-target**, **hacking**, and **mhacking**, if you are using it, into your resources folder in your server. 
