@@ -68,7 +68,7 @@ To change the time, edit the default (300000) to your desired value. (Config.Wai
 
 2. [qb-target](https://github.com/qbcore-framework/qb-target) from the QBCore Framework. This most likely will be included with QB Framewoork. 
 
-3. _***If you have Config.TwoHack enabled, you also will need:*** [mhacking](https://github.com/davedorm/mhacking)_ **(Should be included with QB Framework)**
+3. _***If you have Config.TwoHack enabled, you also will need:*** [mhacking](https://downgit.github.io/#/home?url=https://github.com/justgreatgaming/FiveM-Scripts-2/tree/master/mhacking)_ **(Should be included with QB Framework)**
 
 # Support
 
