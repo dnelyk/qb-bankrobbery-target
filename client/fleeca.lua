@@ -315,32 +315,6 @@ local function OpenPacificDoor()
         end)
     end
 end
-
-Citizen.CreateThread(function()
-    while true do
-        Wait(5000) -- 5 second loop to check nearest bank to the player.
-        if Config.SmallBanks[closestBank]["label"] == "Legion Square" and Config.SmallBanks[closestBank]["isOpened"] == false then
-            bankrobberycoords = vector3(150.81, -1046.54, 28.35)
-        elseif Config.SmallBanks[closestBank]["label"] == "Pink Cage" and Config.SmallBanks[closestBank]["isOpened"] == false then   
-            bankrobberycoords = vector3(315.21, -284.86, 53.14) -- OG Height (54.14)
-        
-        elseif Config.SmallBanks[closestBank]["label"] == "Hawick Ave" and Config.SmallBanks[closestBank]["isOpened"] == false then        
-            bankrobberycoords = vector3(-349.73, -55.73, 48.01)
-        
-        elseif Config.SmallBanks[closestBank]["label"] == "Del Perro Blvd" and Config.SmallBanks[closestBank]["isOpened"] == false then      
-            bankrobberycoords = vector3(-1207.68, -333.8, 36.76)
-        
-        elseif Config.SmallBanks[closestBank]["label"] == "Great Ocean Hwy" and Config.SmallBanks[closestBank]["isOpened"] == false then
-            bankrobberycoords = vector3(-2957.37, 485.84, 14.68)
-        
-        elseif Config.SmallBanks[closestBank]["label"] == "East" and Config.SmallBanks[closestBank]["isOpened"] == false then
-            bankrobberycoords = vector3(1172.15, 2711.97, 38.07)
-        else
-            -- QBCore.Functions.Notify('There has been an error.', "error")
-        end
-    end
-end)
-
 --- mHacking OnHackDone func
 local function OnHackDone(success)
     if success then
