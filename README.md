@@ -9,22 +9,23 @@ This is a reworked version of qb-bankrobbery!
 3. _Configurable hack difficulty._
 4. _A lot more configurability._
 5. _Lootable money trays._
+6. _Improved Thermite Mini-Game, implemented in the script._
 
 _**Future Features will be added**_
 
 # Showcase
 
-_**[YouTube Showcase](https://www.youtube.com/watch?v=3g81Nj3t4cc)**_
+_**[Fleeca YouTube Showcase](https://www.youtube.com/watch?v=3g81Nj3t4cc)**_
 
 # Information
 
-**NOTE:** _I am currently unaware if Gabz's Bank Interiors will conflict with the fleeca banks, although I am pretty sure that his Pacific Standard and Paleto ones will affect the pacific bank and paleto banks. These interiors are not currently supported with my version of this bank robbery script. Sorry if you do have these interiors._
+**NOTE:** _I am currently unaware if Gabz's Bank Interiors will conflict with the fleeca banks, although I am sure that his Pacific Standard and Paleto ones will affect the pacific bank and paleto banks. These interiors are not currently supported with my version of this bank robbery script. Sorry if you do have these interiors._
 
-**Currently, this only affects Fleeca Banks. I made this for a RP Server I was developing, and we decided to not release.**
+**Currently, this only affects Fleeca/Paleto Banks. I made this for a RP Server I was developing, and we decided to not release.**
 
-**_I hopefully, in the future, will be implementing these for the paleto and pacific banks -- and possibly other locations. If people want me to._**
+**_I hopefully, in the future, will be implementing these for the pacific banks -- and possibly other locations. If people want me to._**
 
-**The only modified files are client/fleeca.lua, server/main.lua, config.lua and fxmanifest.lua -- Script errors in other files are an issue with the original qb-bankrobbery.**
+**The only modified files are client/fleeca.lua, client/paleto.lua, client/thermite_cl.lua, server/main.lua, config.lua and fxmanifest.lua -- Script errors in other files are an issue with the original qb-bankrobbery.**
 
 **Resource Monitor:** _Anywhere from (**Idle** of **0.00ms-0.01ms**; **During Active Robbery**: **0.02ms-0.03ms**)_
  
@@ -33,7 +34,7 @@ _**[YouTube Showcase](https://www.youtube.com/watch?v=3g81Nj3t4cc)**_
 
 # Install Guide
 
-1. Download this resource, and remove -main from the end. It should now just be qb-bankrobbery-target.
+1. Download this resource, and remove -main from the end. It should now just be qb-bankrobbery-target, this is crucial.
 2. Download the dependencies, **[hacking](https://github.com/Jesper-Hustad/NoPixel-minigame/tree/main/fivem-script)** [click this to download hacking](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FJesper-Hustad%2FNoPixel-minigame%2Ftree%2Fmain%2Ffivem-script%2Fhacking), if using Config.TwoHack, also download
 **[mhacking](https://downgit.github.io/#/home?url=https://github.com/justgreatgaming/FiveM-Scripts-2/tree/master/mhacking)** which should be included with QB Framework and make sure you have [qb-target](https://github.com/qbcore-framework/qb-target) in your server resources. This is included with the QB Framework.
 3. Drag and Drop **qb-bankrobbery-target**, **hacking**, and **mhacking**, if you are using it, into your resources folder in your server. 
@@ -60,7 +61,11 @@ To change the time, edit the default (300000) to your desired value. (Config.Wai
 
 7. **Config.RandomItemAmount** _dictates the amount of your designated item the player gets. **Default** = math.random(**5**, **9**) (**Random** number **5** to **9**)_
 
-8. **Config.PaletoItem** _and_ **Config.PacificItem** _are not used at this moment, but will most likely be used when I add Paleto and Fleeca Robberies!_
+8. **Config.PaletoItem** _is the item you will recieve when grabbing the money from the tray in the Paleto Bank!_
+
+9. **Config.PacificItem** _is not used at this moment, but will most likely be used when I add Pacific Robberies!_
+
+10. **All other config options are labeled in the config, giving good detail on what they do. Please follow these instructions carefully.**
 
 # Dependencies 
 
