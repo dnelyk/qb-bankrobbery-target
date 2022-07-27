@@ -104,19 +104,7 @@ RegisterCommand('testpayout', function()
 end, false)
 
 function Payout()
-    -- if Config.SmallBanks[closestBank]["label"] == "Legion Square" then
-    --     banktype = "fleeca"
-    -- elseif Config.SmallBanks[closestBank]["label"] == "Pink Cage" then   
-    --     banktype = "fleeca"
-    -- elseif Config.SmallBanks[closestBank]["label"] == "Hawick Ave" then      
-    --     banktype = "fleeca"
-    -- elseif Config.SmallBanks[closestBank]["label"] == "Del Perro Blvd" then      
-    --     banktype = "fleeca"
-    -- elseif Config.SmallBanks[closestBank]["label"] == "Great Ocean Hwy" then
-    --     banktype = "fleeca"
-    -- elseif Config.SmallBanks[closestBank]["label"] == "East" then
-    --     banktype = "fleeca"
-    -- end
+
 
     Citizen.Wait(100)
 
@@ -139,19 +127,7 @@ end
 local function StartGrab()
     if not isgrabbing then
 
-        -- if Config.SmallBanks[closestBank]["label"] == "Legion Square" then
-        --     banktype = "fleeca"
-        -- elseif Config.SmallBanks[closestBank]["label"] == "Pink Cage" then   
-        --     banktype = "fleeca"
-        -- elseif Config.SmallBanks[closestBank]["label"] == "Hawick Ave" then      
-        --     banktype = "fleeca"
-        -- elseif Config.SmallBanks[closestBank]["label"] == "Del Perro Blvd" then      
-        --     banktype = "fleeca"
-        -- elseif Config.SmallBanks[closestBank]["label"] == "Great Ocean Hwy" then
-        --     banktype = "fleeca"
-        -- elseif Config.SmallBanks[closestBank]["label"] == "East" then
-        --     banktype = "fleeca"
-        -- else
+
             local ped = PlayerPedId()
             local pos = GetEntityCoords(ped)
             local dist = #(pos - Config.PaletoCoords)
@@ -160,7 +136,7 @@ local function StartGrab()
             else
                 banktype = "fleeca"
             end
-        -- end
+
 
         print(banktype)
 
