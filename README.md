@@ -11,6 +11,8 @@ This is a reworked version of qb-bankrobbery!
 5. _Lootable money trays._
 6. _Improved Thermite Mini-Game, implemented in the script._
 
+THIS CURRENT VERSION DOES NOT HAVE PACIFIC/VAULT ROBBERY AT THIS TIME!!!
+
 _**Future Features will be added**_
 
 # Showcase
